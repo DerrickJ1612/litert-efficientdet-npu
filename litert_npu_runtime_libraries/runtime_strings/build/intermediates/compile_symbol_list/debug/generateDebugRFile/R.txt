@@ -1,0 +1,7 @@
+int string title_google_tensor_runtime 0x0
+int string title_mediatek_runtime 0x0
+int string title_qualcomm_runtime_v69 0x0
+int string title_qualcomm_runtime_v73 0x0
+int string title_qualcomm_runtime_v75 0x0
+int string title_qualcomm_runtime_v79 0x0
+int string title_qualcomm_runtime_v81 0x0

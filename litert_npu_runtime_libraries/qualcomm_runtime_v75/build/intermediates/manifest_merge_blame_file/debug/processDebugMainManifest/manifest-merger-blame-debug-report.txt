@@ -1,0 +1,50 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    xmlns:dist="http://schemas.android.com/apk/distribution"
+4    featureSplit="qualcomm_runtime_v75"
+5    package="com.example.efficientdet_lite"
+6    android:versionCode="1"
+7    android:versionName="1.0" >
+8
+9    <uses-sdk
+9-->INJECTED
+10        android:minSdkVersion="31"
+10-->INJECTED
+11        android:targetSdkVersion="36" />
+11-->INJECTED
+12
+13    <dist:module
+13-->C:\Users\Derrick\AndroidStudioProjects\EfficientDETLite\litert_npu_runtime_libraries\qualcomm_runtime_v75\src\main\AndroidManifest.xml:5:5-18:19
+14        dist:instant="false"
+14-->C:\Users\Derrick\AndroidStudioProjects\EfficientDETLite\litert_npu_runtime_libraries\qualcomm_runtime_v75\src\main\AndroidManifest.xml:6:9-29
+15        dist:title="@string/title_qualcomm_runtime_v75" >
+15-->C:\Users\Derrick\AndroidStudioProjects\EfficientDETLite\litert_npu_runtime_libraries\qualcomm_runtime_v75\src\main\AndroidManifest.xml:7:9-56
+16        <dist:delivery>
+16-->C:\Users\Derrick\AndroidStudioProjects\EfficientDETLite\litert_npu_runtime_libraries\qualcomm_runtime_v75\src\main\AndroidManifest.xml:8:9-16:25
+17            <dist:install-time>
+17-->C:\Users\Derrick\AndroidStudioProjects\EfficientDETLite\litert_npu_runtime_libraries\qualcomm_runtime_v75\src\main\AndroidManifest.xml:9:13-15:33
+18                <dist:conditions>
+18-->C:\Users\Derrick\AndroidStudioProjects\EfficientDETLite\litert_npu_runtime_libraries\qualcomm_runtime_v75\src\main\AndroidManifest.xml:10:17-14:35
+19                    <dist:device-groups>
+19-->C:\Users\Derrick\AndroidStudioProjects\EfficientDETLite\litert_npu_runtime_libraries\qualcomm_runtime_v75\src\main\AndroidManifest.xml:11:21-13:42
+20                        <dist:device-group dist:name="Qualcomm_SM8650" />
+20-->C:\Users\Derrick\AndroidStudioProjects\EfficientDETLite\litert_npu_runtime_libraries\qualcomm_runtime_v75\src\main\AndroidManifest.xml:12:25-73
+20-->C:\Users\Derrick\AndroidStudioProjects\EfficientDETLite\litert_npu_runtime_libraries\qualcomm_runtime_v75\src\main\AndroidManifest.xml:12:44-71
+21                    </dist:device-groups>
+22                </dist:conditions>
+23            </dist:install-time>
+24        </dist:delivery>
+25
+26        <dist:fusing dist:include="true" />
+26-->C:\Users\Derrick\AndroidStudioProjects\EfficientDETLite\litert_npu_runtime_libraries\qualcomm_runtime_v75\src\main\AndroidManifest.xml:17:9-44
+26-->C:\Users\Derrick\AndroidStudioProjects\EfficientDETLite\litert_npu_runtime_libraries\qualcomm_runtime_v75\src\main\AndroidManifest.xml:17:22-41
+27    </dist:module>
+28
+29    <application
+29-->INJECTED
+30        android:debuggable="true"
+31        android:extractNativeLibs="false"
+31-->INJECTED
+32        android:testOnly="true" />
+33
+34</manifest>

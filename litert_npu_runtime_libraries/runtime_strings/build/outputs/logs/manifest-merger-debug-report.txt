@@ -1,0 +1,16 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Derrick\AndroidStudioProjects\EfficientDETLite\litert_npu_runtime_libraries\runtime_strings\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest10462064733812062153.xml:2:13-83
+INJECTED from C:\Users\Derrick\AndroidStudioProjects\EfficientDETLite\litert_npu_runtime_libraries\runtime_strings\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest10462064733812062153.xml:2:13-83
+	package
+		INJECTED from C:\Users\Derrick\AndroidStudioProjects\EfficientDETLite\litert_npu_runtime_libraries\runtime_strings\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest10462064733812062153.xml
+	xmlns:android
+		ADDED from C:\Users\Derrick\AndroidStudioProjects\EfficientDETLite\litert_npu_runtime_libraries\runtime_strings\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest10462064733812062153.xml:2:23-81
+uses-sdk
+INJECTED from C:\Users\Derrick\AndroidStudioProjects\EfficientDETLite\litert_npu_runtime_libraries\runtime_strings\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest10462064733812062153.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Derrick\AndroidStudioProjects\EfficientDETLite\litert_npu_runtime_libraries\runtime_strings\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest10462064733812062153.xml
+INJECTED from C:\Users\Derrick\AndroidStudioProjects\EfficientDETLite\litert_npu_runtime_libraries\runtime_strings\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest10462064733812062153.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Derrick\AndroidStudioProjects\EfficientDETLite\litert_npu_runtime_libraries\runtime_strings\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest10462064733812062153.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Derrick\AndroidStudioProjects\EfficientDETLite\litert_npu_runtime_libraries\runtime_strings\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest10462064733812062153.xml

@@ -1,0 +1,1 @@
+:litert_npu_runtime_libraries:qualcomm_runtime_v73::debug;Capability: group='EfficientDET-Lite.litert_npu_runtime_libraries', name='qualcomm_runtime_v73'

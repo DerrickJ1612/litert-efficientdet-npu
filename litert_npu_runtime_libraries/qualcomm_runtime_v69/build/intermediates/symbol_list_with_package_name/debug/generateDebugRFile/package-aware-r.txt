@@ -1,0 +1,1 @@
+com.google.ai.edge.litert.qualcomm_runtime.v69

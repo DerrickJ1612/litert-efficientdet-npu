@@ -1,0 +1,51 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Derrick\AndroidStudioProjects\EfficientDETLite\litert_npu_runtime_libraries\qualcomm_runtime_v69\src\main\AndroidManifest.xml:2:1-19:12
+INJECTED from C:\Users\Derrick\AndroidStudioProjects\EfficientDETLite\litert_npu_runtime_libraries\qualcomm_runtime_v69\src\main\AndroidManifest.xml:2:1-19:12
+INJECTED from C:\Users\Derrick\AndroidStudioProjects\EfficientDETLite\litert_npu_runtime_libraries\qualcomm_runtime_v69\src\main\AndroidManifest.xml:2:1-19:12
+INJECTED from C:\Users\Derrick\AndroidStudioProjects\EfficientDETLite\litert_npu_runtime_libraries\qualcomm_runtime_v69\src\main\AndroidManifest.xml:2:1-19:12
+	package
+		INJECTED from C:\Users\Derrick\AndroidStudioProjects\EfficientDETLite\litert_npu_runtime_libraries\qualcomm_runtime_v69\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Derrick\AndroidStudioProjects\EfficientDETLite\litert_npu_runtime_libraries\qualcomm_runtime_v69\src\main\AndroidManifest.xml
+	xmlns:dist
+		ADDED from C:\Users\Derrick\AndroidStudioProjects\EfficientDETLite\litert_npu_runtime_libraries\qualcomm_runtime_v69\src\main\AndroidManifest.xml:3:5-61
+	android:versionCode
+		INJECTED from C:\Users\Derrick\AndroidStudioProjects\EfficientDETLite\litert_npu_runtime_libraries\qualcomm_runtime_v69\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Derrick\AndroidStudioProjects\EfficientDETLite\litert_npu_runtime_libraries\qualcomm_runtime_v69\src\main\AndroidManifest.xml:2:11-69
+dist:module
+ADDED from C:\Users\Derrick\AndroidStudioProjects\EfficientDETLite\litert_npu_runtime_libraries\qualcomm_runtime_v69\src\main\AndroidManifest.xml:5:5-18:19
+	dist:instant
+		ADDED from C:\Users\Derrick\AndroidStudioProjects\EfficientDETLite\litert_npu_runtime_libraries\qualcomm_runtime_v69\src\main\AndroidManifest.xml:6:9-29
+	dist:title
+		ADDED from C:\Users\Derrick\AndroidStudioProjects\EfficientDETLite\litert_npu_runtime_libraries\qualcomm_runtime_v69\src\main\AndroidManifest.xml:7:9-56
+dist:delivery
+ADDED from C:\Users\Derrick\AndroidStudioProjects\EfficientDETLite\litert_npu_runtime_libraries\qualcomm_runtime_v69\src\main\AndroidManifest.xml:8:9-16:25
+dist:install-time
+ADDED from C:\Users\Derrick\AndroidStudioProjects\EfficientDETLite\litert_npu_runtime_libraries\qualcomm_runtime_v69\src\main\AndroidManifest.xml:9:13-15:33
+dist:conditions
+ADDED from C:\Users\Derrick\AndroidStudioProjects\EfficientDETLite\litert_npu_runtime_libraries\qualcomm_runtime_v69\src\main\AndroidManifest.xml:10:17-14:35
+dist:device-groups
+ADDED from C:\Users\Derrick\AndroidStudioProjects\EfficientDETLite\litert_npu_runtime_libraries\qualcomm_runtime_v69\src\main\AndroidManifest.xml:11:21-13:42
+dist:device-group
+ADDED from C:\Users\Derrick\AndroidStudioProjects\EfficientDETLite\litert_npu_runtime_libraries\qualcomm_runtime_v69\src\main\AndroidManifest.xml:12:25-73
+	dist:name
+		ADDED from C:\Users\Derrick\AndroidStudioProjects\EfficientDETLite\litert_npu_runtime_libraries\qualcomm_runtime_v69\src\main\AndroidManifest.xml:12:44-71
+dist:fusing
+ADDED from C:\Users\Derrick\AndroidStudioProjects\EfficientDETLite\litert_npu_runtime_libraries\qualcomm_runtime_v69\src\main\AndroidManifest.xml:17:9-44
+	dist:include
+		ADDED from C:\Users\Derrick\AndroidStudioProjects\EfficientDETLite\litert_npu_runtime_libraries\qualcomm_runtime_v69\src\main\AndroidManifest.xml:17:22-41
+application
+INJECTED from C:\Users\Derrick\AndroidStudioProjects\EfficientDETLite\litert_npu_runtime_libraries\qualcomm_runtime_v69\src\main\AndroidManifest.xml reason: application injection requested
+INJECTED from C:\Users\Derrick\AndroidStudioProjects\EfficientDETLite\litert_npu_runtime_libraries\qualcomm_runtime_v69\src\main\AndroidManifest.xml
+	android:extractNativeLibs
+		INJECTED from C:\Users\Derrick\AndroidStudioProjects\EfficientDETLite\litert_npu_runtime_libraries\qualcomm_runtime_v69\src\main\AndroidManifest.xml
+uses-sdk
+INJECTED from C:\Users\Derrick\AndroidStudioProjects\EfficientDETLite\litert_npu_runtime_libraries\qualcomm_runtime_v69\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Derrick\AndroidStudioProjects\EfficientDETLite\litert_npu_runtime_libraries\qualcomm_runtime_v69\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Derrick\AndroidStudioProjects\EfficientDETLite\litert_npu_runtime_libraries\qualcomm_runtime_v69\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Derrick\AndroidStudioProjects\EfficientDETLite\litert_npu_runtime_libraries\qualcomm_runtime_v69\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Derrick\AndroidStudioProjects\EfficientDETLite\litert_npu_runtime_libraries\qualcomm_runtime_v69\src\main\AndroidManifest.xml

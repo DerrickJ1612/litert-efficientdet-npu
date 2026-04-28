@@ -1,0 +1,8 @@
+com.google.ai.edge.litert.qualcomm_runtime.v73.qualcomm_runtime_v73-pngs-0 C:\Users\Derrick\AndroidStudioProjects\EfficientDETLite\litert_npu_runtime_libraries\qualcomm_runtime_v73\build\generated\res\pngs\debug
+com.google.ai.edge.litert.qualcomm_runtime.v73.qualcomm_runtime_v73-updated_navigation_xml-1 C:\Users\Derrick\AndroidStudioProjects\EfficientDETLite\litert_npu_runtime_libraries\qualcomm_runtime_v73\build\generated\updated_navigation_xml\debug
+com.google.ai.edge.litert.qualcomm_runtime.v73.qualcomm_runtime_v73-packageDebugResources-2 C:\Users\Derrick\AndroidStudioProjects\EfficientDETLite\litert_npu_runtime_libraries\qualcomm_runtime_v73\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.google.ai.edge.litert.qualcomm_runtime.v73.qualcomm_runtime_v73-packageDebugResources-3 C:\Users\Derrick\AndroidStudioProjects\EfficientDETLite\litert_npu_runtime_libraries\qualcomm_runtime_v73\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.google.ai.edge.litert.qualcomm_runtime.v73.qualcomm_runtime_v73-debug-4 C:\Users\Derrick\AndroidStudioProjects\EfficientDETLite\litert_npu_runtime_libraries\qualcomm_runtime_v73\build\intermediates\merged_res\debug\mergeDebugResources
+com.google.ai.edge.litert.qualcomm_runtime.v73.qualcomm_runtime_v73-debug-5 C:\Users\Derrick\AndroidStudioProjects\EfficientDETLite\litert_npu_runtime_libraries\qualcomm_runtime_v73\src\debug\res
+com.google.ai.edge.litert.qualcomm_runtime.v73.qualcomm_runtime_v73-main-6 C:\Users\Derrick\AndroidStudioProjects\EfficientDETLite\litert_npu_runtime_libraries\qualcomm_runtime_v73\src\main\res
+gradleHome-0 C:\Users\Derrick\.gradle

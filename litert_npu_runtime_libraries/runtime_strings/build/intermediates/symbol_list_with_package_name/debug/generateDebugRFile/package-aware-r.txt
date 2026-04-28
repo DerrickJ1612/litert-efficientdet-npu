@@ -1,0 +1,8 @@
+com.google.ai.edge.litert.runtime_strings
+string title_google_tensor_runtime
+string title_mediatek_runtime
+string title_qualcomm_runtime_v69
+string title_qualcomm_runtime_v73
+string title_qualcomm_runtime_v75
+string title_qualcomm_runtime_v79
+string title_qualcomm_runtime_v81
